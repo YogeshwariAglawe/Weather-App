@@ -1,5 +1,5 @@
 body { 
-    background-image: url("assets/images.jpg");
+    background-image: url("images.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -62,5 +62,6 @@ button {
     color: #ffcccb; 
 
 }
+
 
 
